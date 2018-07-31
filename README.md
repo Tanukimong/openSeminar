@@ -6,6 +6,11 @@
 - 너몽의 첫번째 오픈 세미나에 대한 자료가 모두 포함되어 있습니다.
 - Sample 1보다 Sample 2가 음질이 좋아서 LPF 적용후의 변화를 더 잘 느낄 수 있습니다.
 
+## 사전준비
+- Matlab 설치해오기 : http://electronic.hanyang.ac.kr/notice/view_hi.php
+  - **주의! : 반드시 설치할때 Symbolic toolbox 옵션 체크!!** -> 아니면 아래의 Symbolic 사용불가.
+- Sourcetree 설치해오기 : https://www.sourcetreeapp.com
+
 ## 수업 과정
 ### Git
 목표 : Github를 이용하여 수업자료 다운받기
