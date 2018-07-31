@@ -9,15 +9,14 @@
 ## 사전준비
 - Matlab 설치해오기 : http://electronic.hanyang.ac.kr/notice/view_hi.php
   - **주의! : 반드시 설치할때 Symbolic toolbox 옵션 체크!!** -> 아니면 아래의 Symbolic 사용불가.
-- Sourcetree 설치해오기 : https://www.sourcetreeapp.com
 
 ## 수업 과정
 ### Git
 목표 : Github를 이용하여 수업자료 다운받기
 - 어디에 쓸모있는가?
 - 설치 방법
-  - Window 설치 방법 : http://recoveryman.tistory.com/250?category=635733
   - Student혜택 ID 만들기 : https://education.github.com/pack
+  - Sourcetree 설치 : https://www.sourcetreeapp.com
 - Github를 이용하여 수업자료 다운받기
   - Git cheat sheet by 너몽.
 ### Matlab
