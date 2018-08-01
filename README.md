@@ -18,7 +18,7 @@
   - Student혜택 ID 만들기 : https://education.github.com/pack
   - Sourcetree 설치 : https://www.sourcetreeapp.com
 - Github를 이용하여 수업자료 다운받기
-  - Git cheat sheet by 너몽.
+  - 이 Git 저장소를 Cloning
 - Hello Matlab! : Matlab Code를 작성하고 버전관리를 해보자!
   - Basic code 1
     - Local Git 만들기
