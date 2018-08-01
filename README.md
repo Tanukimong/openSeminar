@@ -2,9 +2,9 @@
 
 딴짓 주제 : Matlab & Github
 
-## 팁
+## 개요
 - 너몽의 첫번째 오픈 세미나에 대한 자료가 모두 포함되어 있습니다.
-- Sample 1보다 Sample 2가 음질이 좋아서 LPF 적용후의 변화를 더 잘 느낄 수 있습니다.
+- 너몽 연락처 : https://open.kakao.com/o/sH7GNJF <- 세미나 종료후 헷갈리는게 있다면 물어보세요!
 
 ## 사전준비
 - Matlab 설치해오기 : http://electronic.hanyang.ac.kr/notice/view_hi.php
@@ -18,7 +18,24 @@
   - Student혜택 ID 만들기 : https://education.github.com/pack
   - Sourcetree 설치 : https://www.sourcetreeapp.com
 - Github를 이용하여 수업자료 다운받기
-  - Git cheat sheet by 너몽.
+  - 이 Git 저장소를 Cloning
+- Hello Matlab! : Matlab Code를 작성하고 버전관리를 해보자!
+  - Basic code 1
+    - Local Git 만들기
+    - Remote Git 만들기
+    - Remote Git과 Local Git 연결
+  - Basic code 2
+    - Commit하여 Local Git 중간 저장
+    - Commit내역 모두 Local Git에 올리기
+  - Basic code 3
+    - Branch : 원본을 손상하지 않고 개선하기
+    - Merge와 Conflict
+      - Conflict의 조건 (Branch change -> Master change)
+      - Conflict 해결법
+  - Basic code 4
+    - 오픈 소스기반의 협업시 중요
+    - Pull시 Conflict 조건 (Local change -> Remote change)
+    
 ### Matlab
 목표 : Matlab을 이용하여 초등~대학수학 문제를 컴퓨터로 검증시킨다.
 - Matlab은 어디에 쓸모있는가?
@@ -67,10 +84,3 @@
       - 사용시 주의사항 feat. 행렬연산
     - Function화
     - if문
-## 다시 Git.
-- 간단한 if문 기반의 프로그램 작성 후 버전관리 
-  - git init
-  - git add
-  - git commit
-  - git remote
-  - git push/pull
