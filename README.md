@@ -32,7 +32,10 @@
     - Commit하여 Local Git 중간 저장
     - Commit내역 모두 Local Git에 올리기
     - 버전 한눈에 보기
-  - Lv3 : Branch와 Merge
+  - Lv3 : Push & Pull
+    - Local Git 수정 후 -> Push
+    - Github에서 README.md 수정 후 -> Pull
+  - Master : Branch와 Merge
     - Branch : 원본을 손상하지 않고 개선하기
     - Merge와 Conflict
       - Conflict의 조건 (Branch change -> Master change)
