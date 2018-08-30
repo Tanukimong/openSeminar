@@ -17,21 +17,27 @@
 - 설치 방법
   - Student혜택 ID 만들기 : https://education.github.com/pack
   - Sourcetree 설치 : https://www.sourcetreeapp.com
-- Github를 이용하여 수업자료 다운받기
-  - 이 Git 저장소를 Cloning
-- Hello Matlab! : Matlab Code를 작성하고 버전관리를 해보자!
-  - Step 1 : Git 저장소 생성
-    - Local Git 만들기
-    - Remote Git 만들기
-    - Remote Git과 Local Git 연결
-  - Step 2 : Commit
+  - Atom editor 설치 : https://atom.io
+- 실습
+  - Lv0 : 수업자료 Cloning
+    - 이 Git 저장소를 Cloning
+    - [설명] Flow of use (사용 시나리오)
+  - Lv1 : Git 저장소 생성
+    - 한 번에 Local 저장소와 이에 연결된 Remote 저장소 생성
+      - 생성된 Local 저장소 -> SourceTree에서 확인
+      - 생성된 Remote 저장소 -> 자신의 Github계정에 접속하여 확인
+    - [설명] Local vs Remote
+  - Lv2 : Commit
+    - README.md 파일 생성
     - Commit하여 Local Git 중간 저장
     - Commit내역 모두 Local Git에 올리기
-  - Step 3 : Branch와 Merge
+    - 버전 한눈에 보기
+  - Lv3 : Branch와 Merge
     - Branch : 원본을 손상하지 않고 개선하기
     - Merge와 Conflict
       - Conflict의 조건 (Branch change -> Master change)
       - Conflict 해결법
+        - Example : Branch change -> Master change & Merge from branch to Master
   - Tip
     - 오픈 소스기반의 협업시 중요
     - Pull시 Conflict 조건 (Local change -> Remote change)
@@ -84,3 +90,6 @@
       - 사용시 주의사항 feat. 행렬연산
     - Function화
     - if문
+
+### 광고(?)
+- https://hanyang.wiki <- 심심하면 들려주시고, 괜찮다면 항목 작성 부탁
