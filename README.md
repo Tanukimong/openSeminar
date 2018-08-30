@@ -20,19 +20,19 @@
 - Github를 이용하여 수업자료 다운받기
   - 이 Git 저장소를 Cloning
 - Hello Matlab! : Matlab Code를 작성하고 버전관리를 해보자!
-  - Basic code 1
+  - Step 1 : Git 저장소 생성
     - Local Git 만들기
     - Remote Git 만들기
     - Remote Git과 Local Git 연결
-  - Basic code 2
+  - Step 2 : Commit
     - Commit하여 Local Git 중간 저장
     - Commit내역 모두 Local Git에 올리기
-  - Basic code 3
+  - Step 3 : Branch와 Merge
     - Branch : 원본을 손상하지 않고 개선하기
     - Merge와 Conflict
       - Conflict의 조건 (Branch change -> Master change)
       - Conflict 해결법
-  - Basic code 4
+  - Tip
     - 오픈 소스기반의 협업시 중요
     - Pull시 Conflict 조건 (Local change -> Remote change)
     
